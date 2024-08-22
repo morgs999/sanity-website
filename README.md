@@ -1,2 +1,2 @@
 # sanity-website
-A personal website built using Sanity IO, Typescript, Next JS
+A personal blog content management system built using Sanity IO, Typescript, Next JS, and Tailwind CSS.
